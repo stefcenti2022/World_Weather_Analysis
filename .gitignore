@@ -4,13 +4,9 @@
 config.py
 
 #####################################
-# misc files
+# folder with practice code
 #####################################
 practice
-API_practice.ipynb
-random_numbers.ipynb
-nyt_api_test.ipynb
-PyBer_Challenge.ipynb
 
 #####################################
 # PYTHON INFO
