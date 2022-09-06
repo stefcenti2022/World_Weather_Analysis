@@ -6,6 +6,7 @@ config.py
 #####################################
 # misc files
 #####################################
+practice
 API_practice.ipynb
 random_numbers.ipynb
 nyt_api_test.ipynb
