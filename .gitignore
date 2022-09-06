@@ -4,6 +4,13 @@
 config.py
 
 #####################################
+# misc files
+#####################################
+API_practice.ipynb
+random_numbers.ipynb
+nyt_api_test.ipynb
+
+#####################################
 # PYTHON INFO
 #####################################
 # Byte-compiled / optimized / DLL files
