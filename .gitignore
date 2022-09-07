@@ -2,6 +2,7 @@
 # api keys
 #####################################
 config.py
+Vacation_Search/config.py
 
 #####################################
 # folder with practice code
