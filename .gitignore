@@ -2,6 +2,7 @@
 # api keys
 #####################################
 config.py
+Weather_Database/config.py
 Vacation_Search/config.py
 
 #####################################
